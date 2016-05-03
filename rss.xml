@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ventouras]]></title>
         <description><![CDATA[ventouras]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ventouras/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 22:28:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 22:38:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ventouras/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About the artist]]></title>
-            <description><![CDATA[<p>The engraver and artist Nikolaos Ventouras devoted the greater part of his life, over 5 decades to the advancement and evolution of his art</p>]]></description>
-            <link>undefinedabout-the-artist/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2288422b-08c3-492a-8fe6-776b978ff5d9.jpg">]]></description>
+            <link>https://thegrid.ai/ventouras/about-the-artist/index.html</link>
             <guid isPermaLink="false">88b80d5d-1283-49b9-8aca-aebe3f9f493a</guid>
-            <pubDate>Tue, 03 May 2016 22:28:21 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 22:37:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
