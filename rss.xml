@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ventouras]]></title>
+        <description><![CDATA[ventouras]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 22:28:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About the artist]]></title>
+            <description><![CDATA[<p>The engraver and artist Nikolaos Ventouras devoted the greater part of his life, over 5 decades to the advancement and evolution of his art</p>]]></description>
+            <link>undefinedabout-the-artist/index.html</link>
+            <guid isPermaLink="false">88b80d5d-1283-49b9-8aca-aebe3f9f493a</guid>
+            <pubDate>Tue, 03 May 2016 22:28:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
